@@ -59,7 +59,4 @@ Create data dictionary:
 """
 
 # 5. Modeling
-# Add your machine learning model code here
-
 # 6. Experimentation
-# Any experimentation or additional code for analysis can go here
